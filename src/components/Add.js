@@ -109,3 +109,7 @@ class Add extends Component {
 }
 
 export default Add;
+
+module.exports = {
+  getRandomInteger: getRandomInteger
+}
